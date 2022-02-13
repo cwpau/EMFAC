@@ -3,7 +3,7 @@ background: as the modeling program is too user-unfriendly in parameter input(ov
 
 ref: https://www.epd.gov.hk/epd/english/environmentinhk/air/guide_ref/emfac-hk.html
 
-**Weather data excel file and template input file are not disclosed due to workplace integrity. The repo serves as a showcase of my coding ability and a reference for people encountering the same issue.
+**Weather data excel file and template input file are not disclosed due to workplace integrity. The repo serves as a showcase of my coding ability and a reference for people encountering the same issue.**
 
 This script performs the following:
 
