@@ -13,7 +13,7 @@ This script performs the following:
 
 **A simple User Interface is provided given that the users of the script aren't familiar with codes**
 <p align="left">
-  <img src="/pics_for_readme/excelpic4.png" width="700" title="Simple UI">
+  <img src="/pics_for_readme/excelpic4.png" width="500" title="Simple UI">
 </p>
 
 
