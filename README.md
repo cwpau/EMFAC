@@ -1,9 +1,9 @@
 # EMFAC-HK
-background: as the modeling program is too user-unfriendly in parameter input. The script generates scripts to automatically generate input files for the program.
+background: as the modeling program is too user-unfriendly in parameter input(over thousands of manual clicks). The script generates scripts to automatically generate input files for the program.
 
 ref: https://www.epd.gov.hk/epd/english/environmentinhk/air/guide_ref/emfac-hk.html
 
-
+**Weather data excel file and template input file are not disclosed due to workplace integrity. The repo serves as a showcase of my coding ability and a reference for people encountering the same issue.
 
 This script performs the following:
 
